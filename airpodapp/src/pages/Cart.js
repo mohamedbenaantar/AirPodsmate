@@ -2,6 +2,8 @@ import React from 'react'
 
 export const Cart = () => {
   return (
-    <div>Cart</div>
+    <main>
+    <div className="text-2xl font-bold underline">Cart Page</div>
+    </main>
   )
 }

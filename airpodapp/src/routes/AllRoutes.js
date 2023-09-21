@@ -1,6 +1,6 @@
 import React from 'react'
 import {Routes, Route} from "react-router-dom"
-import {Cart , Home} from "./../pages"
+import {Cart , Home} from "./../pages/index"
 export const AllRoutes = () => {
   return (
     <Routes>
